@@ -32,6 +32,7 @@
     "clear A7",
     "clear B8",
     "clear A8",
-    "clear H1"
+    "clear H1",
+    "end"
   ]
 }
