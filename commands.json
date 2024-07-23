@@ -32,6 +32,6 @@
     "clear A7",
     "clear B8",
     "clear A8",
-    "flag H1"
+    "clear H1"
   ]
 }
